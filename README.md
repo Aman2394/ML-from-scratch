@@ -1,5 +1,6 @@
 # ML-from-scratch
 Learn how to implement ML Algorithms from scratch
+
 Author: Amandeep Chanyal
 
 List of implemented algorithms :- 
@@ -12,3 +13,4 @@ List of implemented algorithms :-
 7. Multi Layer Perceptron
 8. Support Vector Machines
 9. K- Means
+
